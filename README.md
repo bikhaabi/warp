@@ -9,4 +9,4 @@ curl -sSL https://raw.githubusercontent.com/Ptechgithub/warp/main/endip.sh -o en
 ```
 
 
-[t.me/P_tech2024](تلگرام --> t.me/P_tech2024)
+(t.me/P_tech2024)[تلگرام --> t.me/P_tech2024]
