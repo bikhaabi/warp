@@ -8,5 +8,7 @@ curl -sSL https://raw.githubusercontent.com/Ptechgithub/warp/main/endip.sh -o en
 
 ```
 
-## گرفتن کانفیگ WireGuard;
+
+### برای گرفتن کانفیگ WireGuard  از لینک زیر نیز میتوانید اقدام کنید:👇
+
 [https://replit.com/@Ptechgithub/Warp](https://replit.com/@Ptechgithub/Warp)
